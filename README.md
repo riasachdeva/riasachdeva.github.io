@@ -1,4 +1,4 @@
-#### Mobile: +44(0)7424878629 | Email: [ria.sachdeva2000@gmail.com](ria.sachdeva2000@gmail.coml)
+#### Mobile: +44(0)7424878629 | Email: [ria.sachdeva2000@gmail.com](ria.sachdeva2000@gmail.com)
 
 ### Education
 - Imperial College London: MSc Health Data Analytics and Machine Learning 
