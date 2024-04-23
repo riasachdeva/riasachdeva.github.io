@@ -6,7 +6,7 @@
 
 ### Skills
 **Technical Skills:** R, SQL, Python (NumPy, PyTorch, Pandas, TensorFlow, Keras), Cloud Computing (HPC), Statistical Modelling,
-Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Communications, Research Methodology__
+Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Communications, Research Methodology <br />
 **Business Skills:** Microsoft 365 (PowerPoint, Word, Excel, Teams), SEO, Adobe Creative Cloud, Canva, Stakeholder Communications
 
 ### Work Eperience
