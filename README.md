@@ -12,7 +12,8 @@ Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Comm
 ### Work Eperience
 **Imperial College London** <br />
 _London, United Kingdom_ <br /> 
-_Teaching Assistant (Oct 2023 - Feb 2024)_ <br />
+_Teaching Assistant_  <br />
+_Oct 2023 - Feb 2024_ <br />
 - Assisted Professor Abbas Dehghan to develop and deliver the Molecular Epidemiology module for the MSc Health Data Analytics and Machine Learning cohort of 2023 - 2024, with a 50% increase in cohort size from 2022.
 - Taught and conducted weekly Q&A and Homework sessions for 10 weeks utilising online (Virtual Learning Environments - VLEs) and in person teaching formats to ensure interactive student learning.
 - Collaborated with the School of Public Health to communicate and incorporate student feedback to support students and
@@ -20,7 +21,8 @@ enhance learning.
 
 **Brunel University London** <br />
 _London, United Kingdom_ <br />
-_Research Student (Jan 2022 - Jun 2022)_ <br />
+_Research Student_ <br />
+_Jan 2022 - Jun 2022_ <br />
 - Selected for VIT-Brunel University London Student Abroad Program, funded by Brunel University, achieving distinction.
 - Executed data cleaning on genomic data derived from a genotyping chip used in a clinical trial for morbid obesity _(NCT01365416)_ to ensure integrity and high-quality research standards.
 - Conducted comprehensive statistical analysis using R and the UK Biobank to investigate the genetic relationship between autism
@@ -28,7 +30,8 @@ _Research Student (Jan 2022 - Jun 2022)_ <br />
 
 **MyDiagnostics, Pythoes Health Systems** <br />
 _Bengaluru, India_ <br />
-_Marketing Intern (Jul 2020 - Jan 2022)_  <br />
+_Marketing Intern_ <br />
+_Jul 2020 - Jan 2022_  <br />
 - Created a health calendar with targeted images and keywords for clients and stakeholders for business development.
 - Wrote and edited over 100 SEO-friendly articles and product descriptions for the website to increase online audience engagement and sales.
 - Created 6 content and post templates for social media platforms (Instagram, Facebook, LinkedIn) using Canva and Adobe Creative
