@@ -11,8 +11,8 @@ Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Comm
 
 ### Work Eperience
 **Imperial College London** <br />_
-_London, United Kingdom _ <br />_
-_Teaching Assistant (Oct 2023 - Feb 2024)_  <br />_
+London, United Kingdom <br />_
+Teaching Assistant (Oct 2023 - Feb 2024)  <br />_
 - Assisted Professor Abbas Dehghan to develop and deliver the Molecular Epidemiology module for the MSc Health Data Analytics and Machine Learning cohort of 2023 - 2024, with a 50% increase in cohort size from 2022.
 - Taught and conducted weekly Q&A and Homework sessions for 10 weeks utilising online (Virtual Learning Environments - VLEs) and in person teaching formats to ensure interactive student learning.
 - Collaborated with the School of Public Health to communicate and incorporate student feedback to support students and
