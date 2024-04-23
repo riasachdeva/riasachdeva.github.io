@@ -26,25 +26,25 @@ _Research Student (Jan 2022 - Jun 2022)_ <br />
 - Conducted comprehensive statistical analysis using R and the UK Biobank to investigate the genetic relationship between autism
   and morbid obesity in adults contributing to advancements in personalized medicine.
 
-**MyDiagnostics, Pythoes Health Systems**  <br />     
- _Bengaluru, India_ <br />     
+**MyDiagnostics, Pythoes Health Systems** <br />
+_Bengaluru, India_ <br />
 _Marketing Intern (Jul 2020 - Jan 2022)_  <br />
 - Created a health calendar with targeted images and keywords for clients and stakeholders for business development.
 - Wrote and edited over 100 SEO-friendly articles and product descriptions for the website to increase online audience engagement and sales.
 - Created 6 content and post templates for social media platforms (Instagram, Facebook, LinkedIn) using Canva and Adobe Creative
 - Cloud to strategically engage target audiences.
 
-**Qualite Pharma** <br />   
- _Delhi, India_ <br />
+**Qualite Pharma** <br />
+_Delhi, India_ <br />
 _Intern (May 2019 - Jul 2019)_ <br />
 - Conducted market research for 7 product lines complying with the cGMP quality guidelines providing crucial insights for strategic decision making.
 - Researched approval documentation for food & drug manufacturers in 44 countries adhering to global manufacturing guidelines.
 - Organised meetings with global teams aligned with diverse global time zones ensuring effective communication.
 
 ### Leadership Experience
-**Society for Biological Engineering (SBE)**     <br />
- _Vellore, India_   <br />
-_Technical and Events Head (Mar 2020 - May 2022)_   <br />
+**Society for Biological Engineering (SBE)** <br />
+ _Vellore, India_<br />
+_Technical and Events Head (Mar 2020 - May 2022)_ <br />
 - Organised and managed technical, social outreach, cultural, literary and health and wellness events for university students to achieve community engagement and support hands-on learning.
 - Strategically navigated uncertainties arising due to the COVID-19 pandemic transitioning offline events to online platforms ensuring continuity and audience engagement.
 - Collaborated with the School of Bio Sciences and Technology (SBST) to enhance learning through seminars and workshops.
