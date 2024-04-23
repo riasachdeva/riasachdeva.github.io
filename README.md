@@ -6,7 +6,7 @@
 
 ### Skills
 **Technical Skills:** R, SQL, Python (NumPy, PyTorch, Pandas, TensorFlow, Keras), Cloud Computing (HPC), Statistical Modelling,
-Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Communications, Research Methodology /
+Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Communications, Research Methodology__
 **Business Skills:** Microsoft 365 (PowerPoint, Word, Excel, Teams), SEO, Adobe Creative Cloud, Canva, Stakeholder Communications
 
 ### Work Eperience
@@ -17,7 +17,7 @@ _Teaching Assistant (Oct 2023 - Feb 2024)_
 - Collaborated with the School of Public Health to communicate and incorporate student feedback to support students and
 enhance learning.
 
-**Brunel University London**                                                                               _ London, United Kingdom_\
+**Brunel University London**                                                                               _ London, United Kingdom_
 _Research Student (Jan 2022 - Jun 2022)_\
 - Selected for VIT-Brunel University London Student Abroad Program, funded by Brunel University, achieving distinction.
 - Executed data cleaning on genomic data derived from a genotyping chip used in a clinical trial for morbid obesity _(NCT01365416)_ to ensure integrity and high-quality research standards.
