@@ -39,7 +39,8 @@ _Jul 2020 - Jan 2022_  <br />
 
 **Qualite Pharma** <br />
 _Delhi, India_ <br />
-_Intern (May 2019 - Jul 2019)_ <br />
+_Intern_ <br />
+_May 2019 - Jul 2019_ <br />
 - Conducted market research for 7 product lines complying with the cGMP quality guidelines providing crucial insights for strategic decision making.
 - Researched approval documentation for food & drug manufacturers in 44 countries adhering to global manufacturing guidelines.
 - Organised meetings with global teams aligned with diverse global time zones ensuring effective communication.
@@ -47,7 +48,8 @@ _Intern (May 2019 - Jul 2019)_ <br />
 ### Leadership Experience
 **Society for Biological Engineering (SBE)** <br />
  _Vellore, India_<br />
-_Technical and Events Head (Mar 2020 - May 2022)_ <br />
+_Technical and Events Head_ <br />
+_Mar 2020 - May 2022_<br />
 - Organised and managed technical, social outreach, cultural, literary and health and wellness events for university students to achieve community engagement and support hands-on learning.
 - Strategically navigated uncertainties arising due to the COVID-19 pandemic transitioning offline events to online platforms ensuring continuity and audience engagement.
 - Collaborated with the School of Bio Sciences and Technology (SBST) to enhance learning through seminars and workshops.
