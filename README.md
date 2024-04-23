@@ -12,7 +12,7 @@ Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Comm
 ### Work Eperience
 **Imperial College London** <br />_
 London, United Kingdom <br />_
-Teaching Assistant (Oct 2023 - Feb 2024)  <br />_
+Teaching Assistant (Oct 2023 - Feb 2024) <br />_
 - Assisted Professor Abbas Dehghan to develop and deliver the Molecular Epidemiology module for the MSc Health Data Analytics and Machine Learning cohort of 2023 - 2024, with a 50% increase in cohort size from 2022.
 - Taught and conducted weekly Q&A and Homework sessions for 10 weeks utilising online (Virtual Learning Environments - VLEs) and in person teaching formats to ensure interactive student learning.
 - Collaborated with the School of Public Health to communicate and incorporate student feedback to support students and
@@ -20,7 +20,7 @@ enhance learning.
 
 **Brunel University London** <br />_ 
 _ London, United Kingdom_ <br />
-_Research Student (Jan 2022 - Jun 2022)_ <br />_
+Research Student (Jan 2022 - Jun 2022) <br />_
 - Selected for VIT-Brunel University London Student Abroad Program, funded by Brunel University, achieving distinction.
 - Executed data cleaning on genomic data derived from a genotyping chip used in a clinical trial for morbid obesity _(NCT01365416)_ to ensure integrity and high-quality research standards.
 - Conducted comprehensive statistical analysis using R and the UK Biobank to investigate the genetic relationship between autism
