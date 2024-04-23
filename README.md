@@ -19,7 +19,7 @@ _Teaching Assistant (Oct 2023 - Feb 2024)_ <br />
 enhance learning.
 
 **Brunel University London** <br />
-_ London, United Kingdom_ <br />
+_London, United Kingdom_ <br />
 _Research Student (Jan 2022 - Jun 2022)_ <br />
 - Selected for VIT-Brunel University London Student Abroad Program, funded by Brunel University, achieving distinction.
 - Executed data cleaning on genomic data derived from a genotyping chip used in a clinical trial for morbid obesity _(NCT01365416)_ to ensure integrity and high-quality research standards.
