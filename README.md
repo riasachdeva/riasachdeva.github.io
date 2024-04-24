@@ -1,15 +1,15 @@
 #### Mobile: +44(0)7424878629 | Email: ria.sachdeva2000@gmail.com
 
-### Education
+## Education
 - Imperial College London: MSc Health Data Analytics and Machine Learning 
 - Vellore Institute of Technolgy: B.Tech (BEng) Biotechnology 
 
-### Skills
+## Skills
 **Technical Skills:** R, SQL, Python (NumPy, PyTorch, Pandas, TensorFlow, Keras), Cloud Computing (HPC), Statistical Modelling,
 Machine Learning, Data Visualization, GitHub, Anaconda, Jupyter, Scientific Communications, Research Methodology <br />
 **Business Skills:** Microsoft 365 (PowerPoint, Word, Excel, Teams), SEO, Adobe Creative Cloud, Canva, Stakeholder Communications
 
-### Work Eperience
+## Work Experience
 **Imperial College London** <br />
 _London, United Kingdom_ <br /> 
 _Teaching Assistant_  <br />
@@ -45,7 +45,7 @@ _May 2019 - Jul 2019_ <br />
 - Researched approval documentation for food & drug manufacturers in 44 countries adhering to global manufacturing guidelines.
 - Organised meetings with global teams aligned with diverse global time zones ensuring effective communication.
 
-### Leadership Experience
+## Leadership Experience
 **Society for Biological Engineering (SBE)** <br />
  _Vellore, India_<br />
 _Technical and Events Head_ <br />
@@ -54,6 +54,6 @@ _Mar 2020 - May 2022_<br />
 - Strategically navigated uncertainties arising due to the COVID-19 pandemic transitioning offline events to online platforms ensuring continuity and audience engagement.
 - Collaborated with the School of Bio Sciences and Technology (SBST) to enhance learning through seminars and workshops.
 
-### Certifications
+## Certifications
 **NIHR:** Good Clinical Practice _(2022)_  <br />
 **IELTS:** C1 CEFR Level; Overall Band score - 8.0 _(2021)_  <br />
