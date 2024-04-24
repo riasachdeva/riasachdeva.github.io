@@ -1,6 +1,9 @@
 title: Ria Sachdeva
 logo: assets/images/Untitled design-6.png
-description: Email id - ria.sachdeva2000@gmail.com
-<a href= "www.linkedin.com/in/riasachdeva">👔 LinkedIn</a> 
-show_downloads: False
+description: 
+  A health data analyst with biotechnology engineering background.
+  <br><br>
+  <a href="https://www.linkedin.com/in/riasachdeva/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br><br>
+#show_downloads: False
 theme: jekyll-theme-minimal
