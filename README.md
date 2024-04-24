@@ -1,8 +1,8 @@
 #### Mobile: +44(0)7424878629 | Email: ria.sachdeva2000@gmail.com
 
 ## Education
-- Imperial College London: MSc Health Data Analytics and Machine Learning 
-- Vellore Institute of Technolgy: B.Tech (BEng) Biotechnology 
+- **Imperial College London:** MSc Health Data Analytics and Machine Learning 
+- **Vellore Institute of Technolgy**: B.Tech (BEng) Biotechnology 
 
 ## Skills
 **Technical Skills:** R, SQL, Python (NumPy, PyTorch, Pandas, TensorFlow, Keras), Cloud Computing (HPC), Statistical Modelling,
