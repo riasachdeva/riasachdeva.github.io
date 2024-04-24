@@ -5,7 +5,5 @@ description:
   <br><br>
   <a href="https://www.linkedin.com/in/riasachdeva/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
     <br><br>
-  github:
-  is_project_page: false
 #show_downloads: False
 theme: jekyll-theme-minimal
